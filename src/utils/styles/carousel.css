@@ -1,0 +1,24 @@
+.cust-carousel{
+    min-width: 330px;
+}
+
+.carousel-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+
+.slick-list{
+    padding: 5px 0!important;
+}
+
+.slick-dots{
+    position: sticky;
+    margin-top: 10px;
+}
+
+.slick-arrow:before{
+    color: orange;
+}
